@@ -1,6 +1,7 @@
 Código resultante del programa:
 
-```Python
+```python
+
 from machine import Pin
 import time
 import socket
@@ -84,4 +85,5 @@ while True:
     except OSError as e:
         cl.close()
         print('connection closed')
+        
 ```
