@@ -82,5 +82,3 @@ while True:
         cl.close()
         print('connection closed')
         ```
-        python
-        ```
