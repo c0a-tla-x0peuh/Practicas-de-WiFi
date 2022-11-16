@@ -1,6 +1,7 @@
 Código resultante del programa:
 
-``` from machine import Pin
+```Python
+from machine import Pin
 import time
 import socket
 import network
@@ -83,4 +84,4 @@ while True:
     except OSError as e:
         cl.close()
         print('connection closed')
-        ```
+```
