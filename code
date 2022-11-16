@@ -1,6 +1,6 @@
-### Código resultante del programa:
+### Código resultante del programa
 
-```python
+``` python
 
 from machine import Pin
 import time
@@ -88,5 +88,5 @@ while True:
         
 ```
 
-### Evidencia:
+### Evidencia
 https://drive.google.com/file/d/1NVANe2zPUcUOXEcuGq3tQtMcEYrbSfzt/view?usp=sharing
